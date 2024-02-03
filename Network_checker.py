@@ -25,7 +25,7 @@ while True:
         print("This number is ETISALAT")
 
     else:
-        print("please input number 😅")
+        print("please input number")
     print("#"*60)
     print("#"*16, "WELCOME TO NETWORK-CHECKER", "#"*16)
     print("#"*60)
